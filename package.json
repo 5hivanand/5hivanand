@@ -10,7 +10,7 @@
   "author": "5hivanand",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.22",
     "tslint": "^6.1.1",
     "typescript": "^3.8.3"
   }
